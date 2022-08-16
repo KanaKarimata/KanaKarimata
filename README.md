@@ -1,4 +1,12 @@
-### Hi there 👋
+## はじめまして
+2020年3月に大学を卒業後、２０２０4月から２年間の広報業務を経て退職し、2022年4月より４ヶ月間プログラミングスクールで学習しました。現在、転職活動中です。
+
+## スクールで受講した学習内容
+- 言語:Ruby
+- フレームワーク:　Ruby on Rails
+
+## スクール卒業後の学習内容
+- 言語:JavaScript 
 
 <!--
 **KanaKarimata/KanaKarimata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
