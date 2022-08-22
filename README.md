@@ -4,7 +4,6 @@
 ## スクールで受講した学習内容
 - 言語:Ruby
 - フレームワーク:　Ruby on Rails
-- Githubなど
 
 ## スクール卒業後の学習内容
 - 言語:JavaScript 
