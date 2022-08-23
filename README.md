@@ -6,4 +6,6 @@
 - フレームワーク:　Ruby on Rails
 
 ## スクール卒業後の学習内容
-- 言語:JavaScript 
+- 言語:Ruby, JavaScript
+- フレームワーク：　Ruby on Rails 
+- 学習方法：　Udemy "The Complete Ruby on Rails Developer Course", "The Complete JavaScript Course 2022: From Zero to Expert!", 「【JS】ガチで学びたい人のためのJavaScriptメカニズム」 
