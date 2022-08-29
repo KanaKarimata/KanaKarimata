@@ -10,6 +10,7 @@
 - インフラ:AWS(EC2,RDS,Cloud9)
 - 外部API:　Google Vision API
 
+
 ## スクール卒業後の学習内容
 - 言語:Ruby, JavaScript
 - フレームワーク：　Ruby on Rails 
