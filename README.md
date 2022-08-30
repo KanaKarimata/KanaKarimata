@@ -4,7 +4,7 @@
 ## スクールで受講した学習内容
 - 設計:画面設計、機能一覧、データベース設計(ER図・テーブル定義書)、アプリケーション詳細設計
 - プロジェクト管理:チームビルディング、WBS管理、KPT、GitHub(チーム開発)
-- フロントエンド:HTML/CSS、Bootstrap、JavaScript/jQuery/Ajax
+- フロントエンド:HTML/CSS、Bootstrap
 - バックエンド:Ruby/Ruby on Rails
 - 利用したライブラリ(devise,kaminari,refile,pry-byebug)
 - インフラ:AWS(EC2,RDS,Cloud9)
