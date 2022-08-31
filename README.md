@@ -8,7 +8,6 @@
 - バックエンド:Ruby/Ruby on Rails
 - 利用したライブラリ(devise,kaminari,refile,pry-byebug)
 - インフラ:AWS(EC2,RDS,Cloud9)
-- 外部API:　Google Vision API
 
 
 ## スクール卒業後の学習内容
