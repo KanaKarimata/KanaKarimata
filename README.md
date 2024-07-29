@@ -1,5 +1,5 @@
 メインで使用しているフレームワークは以下の通りです🚀
-Spring Boot
-Django
-Vue
+- Spring Boot
+- Django
+- Vue
 
