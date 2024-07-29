@@ -2,4 +2,5 @@
 - Spring Boot
 - Django
 - Vue
+最近AWSと仲良くなりつつあります。
 
